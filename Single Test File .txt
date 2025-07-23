@@ -1,1 +1,3 @@
-This is the very first typed line in this text file.
+This is no longer very first typed line in this text file.
+
+I have entered another line here
